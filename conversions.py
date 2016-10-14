@@ -8,3 +8,8 @@
 def hour2minutes(hours):
 	minutes = hours/60
 	return minutes
+
+#add a cents to dollars function
+def cents2dollars(cents)
+	dollars = cents / 100
+	return dollars
