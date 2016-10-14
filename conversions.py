@@ -6,5 +6,5 @@
 
 #add hours to minutes
 def hour2minutes(hours):
-	minutes = hours/60
+	minutes = hours*60
 	return minutes
