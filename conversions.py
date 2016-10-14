@@ -17,3 +17,7 @@ def cents2dollars(cents)
 #add gallons to liters
 def gallon2liter(gallon):
 	liter=gallon * 3.7895
+
+def degrees2radians(degrees):
+        radians = degrees / 180 * math.pi
+
